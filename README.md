@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Laya-Myadam
-- 👀 I am experienced in Machine Learning, Artificial Intelligence and Software Engineering
 - 🌱 I’m Masters student at University of North Texas 
 - 😄 Pronouns: ... She/her
 
