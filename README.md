@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Laya+Myadam+%F0%9F%91%8B;MS+Student+%40+University+of+North+Texas;Data+Science+%7C+ML+%7C+AI)
 
-<sub>she/her &nbsp;·&nbsp; Denton, TX &nbsp;·&nbsp; Open to opportunities</sub>
+<sub>she/her &nbsp;·&nbsp; USA &nbsp;·&nbsp; Open to opportunities</sub>
 
 </div>
 
@@ -10,9 +10,9 @@
 
 ### About Me
 
-I'm a Master's student in **Data Science** at the **University of North Texas**, exploring the intersection of machine learning, cloud infrastructure, and intelligent systems. I enjoy turning messy, real-world data into decisions that matter.
+I'm a Master's student in **Computer Science** at the **University of North Texas**, exploring the intersection of machine learning, cloud infrastructure, and intelligent systems. I enjoy turning messy, real-world data into decisions that matter.
 
-- 🎓 &nbsp; MS @ **University of North Texas** — Data Science
+- 🎓 &nbsp; MS @ **University of North Texas** — Computer Science
 - 🤖 &nbsp; Passionate about **Machine Learning**, **NLP**, and **AI systems**
 - ☁️ &nbsp; Building with **AWS / Azure / GCP** and containerized workflows
 - 📊 &nbsp; Telling stories with data using **Tableau**, **Power BI**, and **R**
