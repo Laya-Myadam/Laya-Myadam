@@ -66,15 +66,6 @@ I'm a Master's student in **Data Science** at the **University of North Texas**,
 
 ---
 
-### 📌 Featured Projects
-
-> 💡 _Pin your best repositories using GitHub's "Pin a repository" feature on your profile page._
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔗 [Project Name](https://github.com/Laya-Myadam) | Short one-line description of what it does | `Python` `ML` `AWS` |
-| 🔗 [Project Name](https://github.com/Laya-Myadam) | Short one-line description of what it does | `SQL` `Tableau` `Docker` |
-| 🔗 [Project Name](https://github.com/Laya-Myadam) | Short one-line description of what it does | `PyTorch` `GCP` `Python` |
 
 ---
 
@@ -92,9 +83,9 @@ current_focus = [
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/layamyadam/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@email.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:myadamlaya@gmail.com)
 &nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=Laya-Myadam&color=A78BFA&style=flat-square&label=Profile+Views)
 
